@@ -7,25 +7,16 @@ A full-featured e-commerce web application for **M M Attarwala**, a premium frag
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/home.png)
+![Home Page](https://raw.githubusercontent.com/yasarkureshi/ecommerce-admin-panel/main/screenshots/home.jpeg)
 
-### Shop Page
-![Shop Page](screenshots/shop.png)
+### All Products / Shop Page
+![All Products](https://raw.githubusercontent.com/yasarkureshi/ecommerce-admin-panel/main/screenshots/all-products.jpeg)
 
-### Product Detail Page
-![Product Page](screenshots/product.png)
-
-### Cart Page
-![Cart Page](screenshots/cart.png)
-
-### Checkout Page
-![Checkout Page](screenshots/checkout.png)
+### Best Selling Section
+![Best Selling](https://raw.githubusercontent.com/yasarkureshi/ecommerce-admin-panel/main/screenshots/best-selling.jpeg)
 
 ### Admin Panel
-![Admin Panel](screenshots/admin.png)
-
-### Login Page
-![Login Page](screenshots/login.png)
+![Admin Panel](https://raw.githubusercontent.com/yasarkureshi/ecommerce-admin-panel/main/screenshots/admin.jpeg)
 
 ---
 
@@ -176,12 +167,6 @@ frontend/
 | `/profile` | User Profile | Yes |
 | `/orders` | Order History | Yes |
 | `/admin` | Admin Panel | Yes |
-
----
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ---
 
